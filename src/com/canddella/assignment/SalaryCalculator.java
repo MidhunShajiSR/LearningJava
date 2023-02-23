@@ -10,6 +10,7 @@ public class SalaryCalculator {
 		int providentFund = 1500;
 		float totalSalary = (basicSalary+dearnessAllowance+houseRentAllowance)-providentFund;
 		System.out.println("Total Salary : "+ totalSalary);
+		System.out.println("Total Salary : ");
 	}
 
 }
